@@ -1,4 +1,4 @@
-# iDempiere Docker Sanbox
+# iDempiere Docker Sandbox
 
 This repository contains a docker compose example.
 
